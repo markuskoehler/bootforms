@@ -26,5 +26,11 @@
             "AdamWathan\\BootForms": "src/"
         }
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "stable",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/markuskoehler/form.git"
+        }
+    ]
 }
