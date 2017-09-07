@@ -1,13 +1,9 @@
-> **Important: This package is not actively maintained.** For bug fixes and new features, please fork.
+> **Important: This is a fork of the deprecated adamwathan/bootforms** For bug fixes and new features, please fork.
 
 BootForms
 ===============
 
-[![This Project Has Been Deprecated.](http://www.repostatus.org/badges/0.1.0/abandoned.svg)](http://www.repostatus.org/#abandoned)
-[![Code Climate](https://codeclimate.com/github/adamwathan/bootforms/badges/gpa.svg)](https://codeclimate.com/github/adamwathan/bootforms)
-[![Coverage Status](https://coveralls.io/repos/adamwathan/bootforms/badge.svg?branch=master)](https://coveralls.io/r/adamwathan/bootforms?branch=master)
-
-BootForms builds on top of my more general [Form](https://github.com/adamwathan/form) package by adding another layer of abstraction to rapidly generate markup for standard Bootstrap 3 forms. Probably not perfect for your super custom branded ready-for-release apps, but a *huge* time saver when you are still in the prototyping stage!
+BootForms builds on top of my more general [Form](https://github.com/markuskoehler/form) package by adding another layer of abstraction to rapidly generate markup for standard Bootstrap 3 forms. Probably not perfect for your super custom branded ready-for-release apps, but a *huge* time saver when you are still in the prototyping stage!
 
 - [Installation](#installing-with-composer)
 - [Using BootForms](#using-bootforms)
@@ -24,7 +20,7 @@ BootForms builds on top of my more general [Form](https://github.com/adamwathan/
 You can install this package via Composer by running this command in your terminal in the root of your project:
 
 ```bash
-composer require adamwathan/bootforms
+composer require markuskoehler/bootforms
 ```
 
 ### Laravel
