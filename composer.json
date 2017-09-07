@@ -14,7 +14,7 @@
     "license": "MIT",
     "require": {
         "php": ">=5.4.0",
-        "markuskoehler/form": "dev-master"
+        "adamwathan/form": "dev-master"
     },
     "require-dev": {
         "phpunit/phpunit": "3.7.*",
@@ -26,11 +26,5 @@
             "AdamWathan\\BootForms": "src/"
         }
     },
-    "minimum-stability": "stable",
-    "repositories": [
-        {
-            "type": "git",
-            "url": "https://github.com/markuskoehler/form"
-        }
-    ]
+    "minimum-stability": "stable"
 }
